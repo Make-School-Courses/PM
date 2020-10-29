@@ -4,26 +4,26 @@
   </a>
 </p>
 
-# Category Title (Category Abbreviation) 
+# Purpose and Meaning (PM)  
 
 ## Category Description
 
 Students will:
 
-- learning outcome
-- learning outcome
-- learning outcome
+- Identify and contextualize key features of at least one religious and/or philosophical point of view;
+- Analyze the ethical implications of these key features for dealing with problems in contemporary social life;
+- Connect inquiry into those key features with their personal quest for meaning and well-being.
 
 ## Courses That Fulfill This Requirement
 
 | Class |          Title          |                 Units                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  [EC 1000] |  Effective Communication 1: Verbal and Visual Literacies | 4.00 Units |
+|  [RLGN 3022] |  The Power of Compassion and Forgiveness | 4.00 Units |
 
-[EC 1000] - This course may be offered as Writing Intensive (denoted with a + and offering students additional writing instruction with attention to grammar and mechanics) or Service-Learning
+[RLGN 3022] - Using an interdisciplinary framework, this course draws from research that highlights the magnitude of the life-affirming dimensions and powerful consequences of compassion and forgiveness. As recent research from various fields demonstrates, and as wisdom traditions have traditionally attested, the benefits of compassion and forgiveness include personal and spiritual transformation, as well as enhanced health, well-being, and creativity. The ultimate objective of this course is to deepen our understanding of the power of compassion and forgiveness and, ideally, to improve our own life and the lives of other.
 
 
-[EC 1000]:https://drive.google.com/file/d/1OegybHRHTegCp8Fwup6DHvFvxwnNgKWM/view?usp=sharing
+[RLGN 3022]:https://drive.google.com/file/d/1JEEefZQgSTvW5LT0V8VhAABbh69DOtwd/view?usp=sharing
 
 
 ## Make School Course Policies
