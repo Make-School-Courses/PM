@@ -16,14 +16,14 @@ Students will:
 
 ## Courses That Fulfill This Requirement
 
-| Class |          Title          |                 Units                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  [RLGN 3022] |  The Power of Compassion and Forgiveness | 4.00 Units |
+| Class |          Title          |       Semester - Section       | Units |
+|:-----:|:----------------------:|:---------------------------:|:--------|
+|  RLGN 3022 |  The Power of Compassion and Forgiveness | [Fall 2020] | 4.00 Units |
 
-[RLGN 3022] - Using an interdisciplinary framework, this course draws from research that highlights the magnitude of the life-affirming dimensions and powerful consequences of compassion and forgiveness. As recent research from various fields demonstrates, and as wisdom traditions have traditionally attested, the benefits of compassion and forgiveness include personal and spiritual transformation, as well as enhanced health, well-being, and creativity. The ultimate objective of this course is to deepen our understanding of the power of compassion and forgiveness and, ideally, to improve our own life and the lives of other.
+RLGN 3022 - Using an interdisciplinary framework, this course draws from research that highlights the magnitude of the life-affirming dimensions and powerful consequences of compassion and forgiveness. As recent research from various fields demonstrates, and as wisdom traditions have traditionally attested, the benefits of compassion and forgiveness include personal and spiritual transformation, as well as enhanced health, well-being, and creativity. The ultimate objective of this course is to deepen our understanding of the power of compassion and forgiveness and, ideally, to improve our own life and the lives of other.
 
 
-[RLGN 3022]:https://drive.google.com/file/d/1JEEefZQgSTvW5LT0V8VhAABbh69DOtwd/view?usp=sharing
+[Fall 2020]:https://drive.google.com/file/d/1JEEefZQgSTvW5LT0V8VhAABbh69DOtwd/view?usp=sharing
 
 
 ## Make School Course Policies
