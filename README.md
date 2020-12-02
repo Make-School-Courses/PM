@@ -18,6 +18,7 @@ Students will:
 
 | Class |          Title          |       Semester - Section       | Units |
 |:-----:|:----------------------:|:---------------------------:|:--------|
+|  RLGN 3003 |  Art and the Sacred | Spring 2021 | 4.00 Units |
 |  RLGN 3022 |  The Power of Compassion and Forgiveness | [Fall 2020] | 4.00 Units |
 
 RLGN 3022 - Using an interdisciplinary framework, this course draws from research that highlights the magnitude of the life-affirming dimensions and powerful consequences of compassion and forgiveness. As recent research from various fields demonstrates, and as wisdom traditions have traditionally attested, the benefits of compassion and forgiveness include personal and spiritual transformation, as well as enhanced health, well-being, and creativity. The ultimate objective of this course is to deepen our understanding of the power of compassion and forgiveness and, ideally, to improve our own life and the lives of other.
